@@ -1,0 +1,17 @@
+Catch Me Up
+Copyright (c) 2026 Joshua LaRosa. Released under the MIT License (see LICENSE).
+
+Third-party material
+--------------------
+Catch Me Up bundles no third-party code, fonts or datasets. It uses only the Python standard
+library.
+
+- The idea of a skill that reads several platforms for a topic and a time window, then hands back
+  the posts worth seeing, comes from the doomscroll skill by Jason Zhou (@jasonzhou1993) and
+  Superdesign (https://github.com/superdesigndev/treg, Apache License 2.0 with additional terms).
+  Catch Me Up is a from-scratch build and includes none of its code or text. It does not use the
+  treg service. See "Credits" in README.md.
+- Catch Me Up reads public pages and feeds from Hacker News (Algolia search), YouTube, Bluesky,
+  Google News, GitHub, Mastodon, Product Hunt and Reddit. It is not affiliated with or endorsed by
+  any of them, or by Anthropic. Their names appear only to say where posts come from. Each
+  service's own terms apply to how you use what you read there.

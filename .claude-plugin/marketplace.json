@@ -1,0 +1,25 @@
+{
+  "name": "catch-me-up",
+  "owner": {
+    "name": "Joshua LaRosa",
+    "url": "https://github.com/joshualarosa902-dev"
+  },
+  "metadata": {
+    "description": "Free, open-source topic catch-up skill for Claude.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "catch-me-up",
+      "source": "./plugins/catch-me-up",
+      "description": "Name a topic and a time window. Claude reads free public feeds and hands back the posts worth seeing, with links. No account, no API key.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Joshua LaRosa"
+      },
+      "license": "MIT",
+      "category": "research",
+      "keywords": ["news", "trends", "research", "social", "catch-up", "students"]
+    }
+  ]
+}

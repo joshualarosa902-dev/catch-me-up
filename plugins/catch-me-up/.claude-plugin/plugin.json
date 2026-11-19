@@ -1,0 +1,14 @@
+{
+  "name": "catch-me-up",
+  "displayName": "Catch Me Up",
+  "version": "1.0.0",
+  "description": "Name a topic and a time window. Claude reads free public feeds and hands back the posts worth seeing, with links. No account, no API key.",
+  "author": {
+    "name": "Joshua LaRosa",
+    "url": "https://github.com/joshualarosa902-dev"
+  },
+  "homepage": "https://github.com/joshualarosa902-dev/catch-me-up",
+  "repository": "https://github.com/joshualarosa902-dev/catch-me-up",
+  "license": "MIT",
+  "keywords": ["news", "trends", "research", "social", "catch-up", "students", "hacker-news", "youtube"]
+}
